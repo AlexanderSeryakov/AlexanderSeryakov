@@ -1,12 +1,11 @@
 ## Hello everyone and Welcome to my GitHub profile 👋
 ## I`m Alexander Seryakov, Web Developer
-<hr/>
 
 <!--There is a difference between knowing 
 the path and walking the path.-->
 
 <div style="display: flex; justify-content: space-between">
-    <div style="max-width: 300px">
+    <div align="left">
         <strong style="font-size: 30px">About me</strong>
         <p>Web development turned out to be very exciting for me, 
             I started my journey with the Python language, developed 
@@ -15,7 +14,7 @@ the path and walking the path.-->
             End for my applications.
         </p>
     </div>
-<img style="" src="assets/common/giphy.gif">
+<img align="right" src="assets/common/giphy.gif">
 </div>
 
 
