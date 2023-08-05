@@ -2,27 +2,11 @@
     Welcome to my GitHub profile 👋</h2> 
 
 
-<!--There is a difference between knowing 
-the path and walking the path.-->
+<!--<p><em>
+    There is a difference between knowing 
+the path and walking the path.
+</em></p>-->
 
-<h2>About me</h2>
-<p width="200">
-    <em>Web development turned out to be very exciting for me, 
-    </em>
-</p>
-<p width="200">
-    <em>I started my journey with the Python language, developed 
-    </em>
-</p>
-<p width="200">
-    <em>several commercial projects for small businesses using Python 
-    </em>
-</p>
-<p width="100">
-    <em>    frameworks such as FastAPI, Django, and also developed the Front End for my applications.
-    </em>
-</p>
-<br>
 <img align="left" width="300" src="assets/common/giphy.gif">
 
 <!--
