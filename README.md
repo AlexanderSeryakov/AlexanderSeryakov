@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hello everyone and Welcome to my GitHub profile 👋
+## I`m Alexander Seryakov, Web Developer
+<hr/>
+
+<!--There is a difference between knowing 
+the path and walking the path.-->
+
+<div style="display: flex; justify-content: space-between">
+    <div style="max-width: 300px">
+        <strong style="font-size: 30px">About me</strong>
+        <p>Web development turned out to be very exciting for me, 
+            I started my journey with the Python language, developed 
+            several commercial projects for small businesses using Python 
+            frameworks such as FastAPI, Django, and also developed the Front 
+            End for my applications.
+        </p>
+    </div>
+<img style="" src="assets/common/sakura.gif">
+</div>
+
 
 <!--
 **AlexanderSeryakov/AlexanderSeryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
