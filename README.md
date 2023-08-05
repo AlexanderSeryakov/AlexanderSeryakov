@@ -15,7 +15,7 @@ the path and walking the path.-->
             End for my applications.
         </p>
     </div>
-<img style="" src="assets/common/sakura.gif">
+<img style="" src="assets/common/giphy.gif">
 </div>
 
 
