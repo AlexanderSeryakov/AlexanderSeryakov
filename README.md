@@ -5,7 +5,7 @@
 <!--There is a difference between knowing 
 the path and walking the path.-->
 
-<strong>About me</strong>
+<h2>About me</h2>
 <p width="200">
     <em>Web development turned out to be very exciting for me, 
     </em>
@@ -22,6 +22,7 @@ the path and walking the path.-->
     <em>    frameworks such as FastAPI, Django, and also developed the Front End for my applications.
     </em>
 </p>
+<br>
 <img align="left" width="300" src="assets/common/giphy.gif">
 
 <!--
