@@ -1,37 +1,16 @@
 <h2> Hello everyone and Welcome to my GitHub profile 👋 </h2>
-<h2> I`m Alexander Seryakov, Web Developer</h2>
+<h3> I`m Alexander Seryakov, Web Developer :octocat:</h3>
 
 <!--There is a difference between knowing 
 the path and walking the path.-->
 
-<div style="display: flex; justify-content: space-between">
-    <div align="left">
-        <strong style="font-size: 30px">About me</strong>
-        <p>Web development turned out to be very exciting for me, 
-            I started my journey with the Python language, developed 
-            several commercial projects for small businesses using Python 
-            frameworks such as FastAPI, Django, and also developed the Front 
-            End for my applications.
-        </p>
-    </div>
-<img align="right" width="400" src="assets/common/giphy.gif">
-</div>
+
+<img align="left" width="300" src="assets/common/pink-flower.gif">
 
 
-<!--<p><em>
-    There is a difference between knowing 
-the path and walking the path.
-</em></p>-->
 
-<img align="left" width="300" src="assets/common/giphy.gif">
 
 <!--
-**AlexanderSeryakov/AlexanderSeryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-        
-        
-        
 
 
 Here are some ideas to get you started:
