@@ -45,14 +45,28 @@ the path and walking the path.-->
 
 <h3 align='center'>Backend stack</h3>
 
-<div align="left">
-                <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
-                <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
-                <img src="assets/technologies/backend/django.svg" alt="django" width="40" height="40"/> 
-                <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
-                <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-                <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>
-                <img src="assets/technologies/backend/aiohttp-plain.svg" alt="aiohttp" width="40" height="40">
-                <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="40" height="40">
+<div align="center">
+                <img src="assets/technologies/backend/python-original.svg" alt="python" width="60" height="60"/>
+                <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="55" height="55"/>
+                <img src="assets/technologies/backend/django.svg" alt="django" width="50" height="50"/> 
+                <img src="assets/technologies/backend/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+                <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>   
+                <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
+                <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> 
+                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="60" height="60"/>
+                <img src="assets/technologies/backend/aiohttp-plain.svg" alt="aiohttp" width="60" height="60">
+                <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="60" height="60">
+</div>
+
+<h3 align='center'>Frontend stack</h3>
+
+<div align="center">
+                <img src="assets/technologies/frontend/javascript_original.svg" alt="javascript" width="40" height="40"/>
+                <img src="assets/technologies/frontend/react_icon.svg" alt="react" width="40" height="40"/>
+                <img src="assets/technologies/frontend/html5_icon.svg" alt="html5" width="40" height="40"/>
+                <img src="assets/technologies/frontend/css3_icon.svg" alt="css3" width="40" height="40"/>
+                <img src="assets/technologies/frontend/bootstrap_icon.svg" alt="bootstrap" width="40" height="40"/> 
+                <img src="assets/technologies/frontend/tailwindcss_icon.svg" alt="tailwind" width="40" height="40"/>
+                <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="40" height="40"/> 
+                
 </div>
