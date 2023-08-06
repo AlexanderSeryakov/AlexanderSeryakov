@@ -1,5 +1,5 @@
-## Hello everyone and Welcome to my GitHub profile 👋
-## I`m Alexander Seryakov, Web Developer
+<h2> Hello everyone and Welcome to my GitHub profile 👋 </h2>
+<h2> I`m Alexander Seryakov, Web Developer</h2>
 
 <!--There is a difference between knowing 
 the path and walking the path.-->
@@ -14,7 +14,7 @@ the path and walking the path.-->
             End for my applications.
         </p>
     </div>
-<img align="right" src="assets/common/giphy.gif">
+<img align="right" width="400" src="assets/common/giphy.gif">
 </div>
 
 
