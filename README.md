@@ -87,23 +87,22 @@ the path and walking the path.-->
 <br>
 
 <div align="center">
-  
-  ### :fire: My Stats :
-  
-</div>
-<br>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSeryakov&theme=omni&layout=compact&border_radius=15" width="320.6" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderSeryakov&show_icons=true&theme=omni&border_radius=15" height="170"/>
+  <img src="assets/common/kyubey.gif" />
   
 </div>
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSeryakov&theme=omni&layout=compact&border_radius=15&hide_border=true" width="320.6" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderSeryakov&show_icons=true&theme=omni&border_radius=15&hide_border=true" height="170"/>
+  
+</div>
+
 <br>
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderSeryakov&theme=omni&border_radius=15&card_width=720)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderSeryakov&theme=omni&border_radius=15&card_width=720&hide_border=true)](https://git.io/streak-stats)
 </div>
