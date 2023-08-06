@@ -18,8 +18,21 @@ the path and walking the path.-->
 </div>
 
 
+<!--<p><em>
+    There is a difference between knowing 
+the path and walking the path.
+</em></p>-->
+
+<img align="left" width="300" src="assets/common/giphy.gif">
+
 <!--
 **AlexanderSeryakov/AlexanderSeryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+        
+        
+        
+
 
 Here are some ideas to get you started:
 
