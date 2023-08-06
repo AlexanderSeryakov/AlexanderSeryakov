@@ -43,7 +43,7 @@ the path and walking the path.-->
   </li>
 </ul>
 
-<h3 align='center'>Backend stack</h3>
+<h3 align='center'>Backend Technologies</h3>
 
 <div align="center">
                 <img src="assets/technologies/backend/python-original.svg" alt="python" width="60" height="60"/>
@@ -58,15 +58,26 @@ the path and walking the path.-->
                 <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="60" height="60">
 </div>
 
-<h3 align='center'>Frontend stack</h3>
+<h3 align='center'>Frontend Technologies</h3>
 
 <div align="center">
-                <img src="assets/technologies/frontend/javascript_original.svg" alt="javascript" width="40" height="40"/>
-                <img src="assets/technologies/frontend/react_icon.svg" alt="react" width="40" height="40"/>
-                <img src="assets/technologies/frontend/html5_icon.svg" alt="html5" width="40" height="40"/>
-                <img src="assets/technologies/frontend/css3_icon.svg" alt="css3" width="40" height="40"/>
-                <img src="assets/technologies/frontend/bootstrap_icon.svg" alt="bootstrap" width="40" height="40"/> 
-                <img src="assets/technologies/frontend/tailwindcss_icon.svg" alt="tailwind" width="40" height="40"/>
-                <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="40" height="40"/> 
+                <img src="assets/technologies/frontend/javascript_original.svg" alt="javascript" width="60" height="60"/>
+                <img src="assets/technologies/frontend/react_icon.svg" alt="react" width="60" height="60"/>
+                <img src="assets/technologies/frontend/html5_icon.svg" alt="html5" width="60" height="60"/>
+                <img src="assets/technologies/frontend/css3_icon.svg" alt="css3" width="60" height="60"/>
+                <img src="assets/technologies/frontend/chart-js.svg" alt="chart-js" width="60" height="60"/>
+                <img src="assets/technologies/frontend/bootstrap_icon.svg" alt="bootstrap" width="60" height="60"/> 
+                <img src="assets/technologies/frontend/tailwindcss_icon.svg" alt="tailwind" width="60" height="60"/>
+                <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="60" height="60"/> 
+                
+</div>
+
+<h3 align='center'>Other Technologies</h3>
+
+<div align="center"> 
+                <img src="assets/technologies/other/linux-original.svg" alt="linux" width="60" height="60"/>   
+                <img src="assets/technologies/other/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+                <img src="assets/technologies/other/git-scm-icon.svg" alt="git" width="60" height="60"/>
+                <img src="assets/technologies/other/bash.svg" alt="bash" width="60" height="60"/> 
                 
 </div>
