@@ -42,6 +42,7 @@ the path and walking the path.-->
     </ul>
   </li>
 </ul>
+<br>
 
 <h3 align='center'>Backend Technologies</h3>
 
@@ -57,7 +58,7 @@ the path and walking the path.-->
                 <img src="assets/technologies/backend/aiohttp-plain.svg" alt="aiohttp" width="60" height="60">
                 <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="60" height="60">
 </div>
-
+<br>
 <h3 align='center'>Frontend Technologies</h3>
 
 <div align="center">
@@ -71,7 +72,7 @@ the path and walking the path.-->
                 <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="60" height="60"/> 
                 
 </div>
-
+<br>
 <h3 align='center'>Other Technologies</h3>
 
 <div align="center"> 
@@ -80,4 +81,29 @@ the path and walking the path.-->
                 <img src="assets/technologies/other/git-scm-icon.svg" alt="git" width="60" height="60"/>
                 <img src="assets/technologies/other/bash.svg" alt="bash" width="60" height="60"/> 
                 
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  
+  ### :fire: My Stats :
+  
+</div>
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSeryakov&theme=omni&layout=compact&border_radius=15" width="320.6" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderSeryakov&show_icons=true&theme=omni&border_radius=15" height="170"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderSeryakov&theme=omni&border_radius=15&card_width=720)](https://git.io/streak-stats)
 </div>
