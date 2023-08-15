@@ -102,7 +102,7 @@ the path and walking the path.-->
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderSeryakov&theme=omni&border_radius=15&card_width=720&hide_border=true)](https://git.io/streak-stats)
-</div> -->
+</div>
